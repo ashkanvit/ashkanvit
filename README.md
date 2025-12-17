@@ -10,8 +10,6 @@ This is my **organization/work account** for projects and contributions.
 ## 🔭 Currently working on
 - Flutter applications  
 - AI-powered mobile apps & AI agents  
-- Backend APIs with **FastAPI**
-
 ---
 
 ## 🔗 Skills & Tools
