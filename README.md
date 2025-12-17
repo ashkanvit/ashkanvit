@@ -1,7 +1,8 @@
 ### Hello, I’m **Ashkan**  
 
 This is my **organization/work account** for projects and contributions.  
-### Main personal account: (https://github.com/ashkanbmn)  
+### Main personal account:
+https://github.com/ashkanbmn
 
 **Flutter & Python Developer | AI-Integrated Mobile Apps & Autonomous AI Agents**
 
