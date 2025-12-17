@@ -32,15 +32,6 @@ This is my **organization/work account** for projects and contributions.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashkanvit&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashkanvit&theme=tokyonight" width="48%" />
-</div>
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashkan-bahmani-1ab5b1205)
