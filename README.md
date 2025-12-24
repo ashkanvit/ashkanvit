@@ -1,5 +1,8 @@
 ### Hello, I’m **Ashkan**  
 
+I specialize in building cross-platform experiences with Flutter and orchestrating Autonomous AI Agents with Python.
+I bridge the gap between high-performance mobile UI and powerful backend AI logic.
+
 This is my **organization/work account** for projects and contributions.  
 
 [Primary GitHub Account](https://github.com/developerashkan)
