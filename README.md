@@ -1,9 +1,9 @@
 ### Hello, I’m **Ashkan**  
 
 This is my **organization/work account** for projects and contributions.  
-### Main personal account:
 
-https://github.com/ashkanbmn
+[Secondary GitHub Account](https://github.com/developerashkan)
+
 ---
 
 ## 🔭 Currently working on
