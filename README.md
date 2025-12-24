@@ -2,7 +2,7 @@
 
 This is my **organization/work account** for projects and contributions.  
 
-[Secondary GitHub Account](https://github.com/developerashkan)
+[Primary GitHub Account](https://github.com/developerashkan)
 
 ---
 
