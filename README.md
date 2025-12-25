@@ -36,7 +36,7 @@ This is my **organization/work account** for projects and contributions.
 
 ### 📊 Contribution Activity
 
-<img src="https://github.com/developerashkan/developerashkan/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+<img src="https://github.com/ashkanvit/ashkanvit/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
 ---
 
