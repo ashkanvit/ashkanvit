@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          user: developerashkan
+          user: ashkanvit
           template: classic
 
           base: header, activity, community
